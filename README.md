@@ -1,10 +1,10 @@
-# Interia - Interior Design Website🏠✨🎨
+# The Design Cove - Interior Design Website🏠✨🎨
 
-🏠 This is the code for the Interia website, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
+🏠 This is the code for the The Design Cove website, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
 
 ## Visit the Website
 
-🌐 To visit the Interia website, click [Here](https://meet244.github.io/Interia/).
+🌐 To visit the The Design Cove website, click [Here](https://meet244.github.io/Interia/).
 
 ## File Structure
 
@@ -26,7 +26,7 @@
 ✨ Responsive design for optimal viewing on different devices.<br/>
 🔗 Navigation bar with links to different pages.<br/>
 🎯 Banner section with a call-to-action to get a quote or explore design ideas.<br/>
-🏆 Section highlighting the reasons to choose Interia.<br/>
+🏆 Section highlighting the reasons to choose The Design Cove.<br/>
 🛋️ Section showcasing different rooms and their design options.<br/>
 🚧 Section emphasizing safety measures taken during the design and installation process.<br/>
 🏅 Section displaying the achievements of the company.<br/>
