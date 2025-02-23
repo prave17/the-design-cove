@@ -8,7 +8,7 @@ function clk2(){
   document.getElementById('img-bk').style['width'] = "174px";
   document.getElementById('cls-f').style['margin-left'] = "-800px";
   document.getElementById('d6-2-h1').textContent = "Seal the deal";
-  document.getElementById('d6-2-p').textContent = "Book Livspace by paying 5% of the final quote or Rs.25000 (whichever is higher)";
+  document.getElementById('d6-2-p').textContent = "Book by paying 5% of the final quote or Rs.25000 (whichever is higher)";
 }
 function clk3(){
   document.getElementById('img-bk').style['width'] = "282px";
@@ -26,7 +26,7 @@ function clk5(){
   document.getElementById('img-bk').style['width'] = "500px";
   document.getElementById('cls-f').style['margin-left'] = "-3200px";
   document.getElementById('d6-2-h1').textContent = "Move in!";
-  document.getElementById('d6-2-p').textContent = "Your Livspace home is now ready! It's time to make new memories!";
+  document.getElementById('d6-2-p').textContent = "Your home is now ready! It's time to make new memories!";
 }
 
 function im_ch(){
