@@ -23,8 +23,8 @@
     justify-content: space-between;
 }
 .logo{
-    margin: 20px 0;
-    width: 180px;
+    margin: 20px 20px;
+    width: 130px;
     cursor: pointer;
 }
 .navbar ul li{
@@ -200,7 +200,7 @@ body{
     margin: 0 0 20px 0;
 }
 .ftr-t img{
-    width: 250px;
+    width: 175px;
     align-content: left;
 }
 .ftr-t ul{
